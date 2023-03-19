@@ -11,7 +11,7 @@ mouth_l.run_to_position(0)
 eyebrows.run_to_position(0)
 
 # Set up the color sensor
-color = ColorSensor('C')
+color = ColorSensor('D')
 
 
 # Link names of expressions to motor movement and to eye display in a dictionary
